@@ -1,0 +1,33 @@
+.high{
+    display:flex;
+    width: 100%;
+    flex-direction: row;
+}
+.fle{
+    flex: 1;
+    box-shadow: 0px 5px 10px black;  /*temp*/
+}
+#Mt{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 30px 10px 30px;
+
+}
+.top{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+.zeb{
+    margin: 30px 30px 30px 0px;
+}
+.mid{
+    flex: 2;
+}
+.bot{
+    flex: 3;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
