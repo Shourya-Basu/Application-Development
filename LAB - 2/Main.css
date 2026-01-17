@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center; 
+    min-height: 100vh;
+    align-items: center;  
+}
+.Main{
+    
+    flex-direction: row;/
+    flex: 3;
+    
+}
+.flx{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+.E1,.E2{
+    padding: 30px 0px 30px 0px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: rgb(241, 209, 67);
+    
+}
+a{
+    text-decoration: none;
+    color: orangered;
+}
